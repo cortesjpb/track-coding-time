@@ -2,8 +2,8 @@
   "stack": "heroku-20",
   "name": "Superset on Heroku",
   "description": "Data exploration platform designed to be visual, intuitive, and interactive",
-  "logo": "https://cdn.rawgit.com/airbnb/superset/master/superset/assets/images/superset_logo.png",
-  "repository": "https://github.com/cortesjpb/superset-on-heroku/",
+  "logo": "https://www.prarasbiosciences.org/incubator-superset/superset/static/assets/branding/superset-logo-stacked.png",
+  "repository": "https://github.com/cortesjpb/track-coding-time/",
   "addons": [
     { "plan": "heroku-postgresql" }
   ],
